@@ -7,12 +7,12 @@ const Logo = () => {
         <img
           className="img-fluid rounded-pill d-block"
           src="images/profile.jpg.jfif"
-          title="I'm Simone"
+          title="I'm Sinem"
           alt=""
         />
       </span>
       <h1 className="text-5 text-white text-center mb-0 d-lg-block">
-        Simone Olivia
+        Sinem Kara
       </h1>
     </a>
   );
